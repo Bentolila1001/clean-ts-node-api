@@ -1,6 +1,6 @@
-# architecture-templates
-
-Default template for node project (quick start).
+# Clean Code Node API
+[![Code scanning](https://github.com/Bentolila1001/clean-ts-node-api/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/Bentolila1001/clean-ts-node-api/actions/workflows/codeql-analysis.yml)
+[![Continuous Integration Workflow](https://github.com/Bentolila1001/clean-ts-node-api/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Bentolila1001/clean-ts-node-api/actions/workflows/ci.yml)
 
 ## Libraries and Tools
 
