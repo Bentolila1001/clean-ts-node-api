@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     # Define the steps for this job
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         name: "Checkout repository"
 
       - name: "Install Dependencies"
@@ -39,7 +39,7 @@ jobs:
         shell: bash
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         name: "Checkout repository"
 
       - name: "Install Dependencies"
