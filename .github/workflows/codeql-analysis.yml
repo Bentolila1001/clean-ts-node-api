@@ -39,8 +39,3 @@ jobs:
         uses: github/codeql-action/analyze@168b99b3c22180941ae7dbdd5f5c9678ede476ba # v2.2.7
         with:
           category: "/language:${{matrix.language}}"
-          
-      - uses: codecov/codecov-action@v3
-        with:
-          files: ./coverage1.xml,./coverage2.xml # optional
-          name: codecov-umbrella 
