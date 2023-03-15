@@ -1,4 +1,5 @@
 # Clean Code Node API
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Bentolila1001/clean-ts-node-api/badge)](https://api.securityscorecards.dev/projects/github.com/Bentolila1001/clean-ts-node-api)
 [![Code scanning](https://github.com/Bentolila1001/clean-ts-node-api/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/Bentolila1001/clean-ts-node-api/actions/workflows/codeql-analysis.yml)
 [![Continuous Integration Workflow](https://github.com/Bentolila1001/clean-ts-node-api/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Bentolila1001/clean-ts-node-api/actions/workflows/ci.yml)
 
