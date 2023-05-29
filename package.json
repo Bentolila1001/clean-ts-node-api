@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Bentolila1001/architecture-templates#readme",
   "devDependencies": {
     "@types/jest": "^29.4.0",
-    "@types/node": "^18.15.2",
+    "@types/node": "^20.2.5",
     "@typescript-eslint/eslint-plugin": "^5.54.1",
 
     "eslint": "^8.36.0",
